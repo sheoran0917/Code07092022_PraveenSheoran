@@ -1,5 +1,11 @@
 
+Install the Packages
 
+npm i
+
+run the app
+
+nodemon start
 => For point 2, Count the total number of overweight people using ranges in the column BMI Category of Table 1, check this is consistent programmatically and add any Other observations in the documentation 
 
 
